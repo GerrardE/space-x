@@ -14,7 +14,7 @@
   "author": "Gerrard Ezeugwa",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "concurrently": "^4.1.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
